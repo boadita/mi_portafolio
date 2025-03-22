@@ -22,7 +22,9 @@ const Skills = () => {
     setMaquetado([
       { name: "HTML" },
       { name: "CSS" },
-      { name: "Javascript" }
+      { name: "Javascript" },
+      { name: "JQuery" },
+      { name: "Typescript" }
     ]);
     setBasesDatos([
       { name: "MySQL" },
