@@ -9,7 +9,7 @@ const About = () => {
       <div className="flex flex-col items-center justify-center mt-6">
         <div className="w-40 h-40 overflow-hidden rounded-full border-4 shadow-lg">
           <img
-            src="imagenes/foto.jpg"
+            src="imagenes/foto.png"
             alt="yo"
             className="w-full h-full object-cover"
           />
@@ -58,7 +58,10 @@ const About = () => {
       </p>
 
       <p className="mt-6 text-justify font-bold">
-        Soy un apasionado del fútbol y fiel hincha de The Strongest, Boca Juniors y FC Barcelona. Me inspira la disciplina y estrategia del deporte para aplicarlas en mi vida profesional. Mi compromiso con la tecnología, la educación y el análisis de datos me motiva a seguir aprendiendo y desarrollando soluciones innovadoras.
+        Soy un apasionado del fútbol y fiel hincha de The Strongest, Boca Juniors y FC Barcelona.
+      </p>
+      <p className="mt-6 text-justify font-bold">
+        Me inspira la disciplina y estrategia del deporte para aplicarlas en mi vida profesional. Mi compromiso con la tecnología, la educación y el análisis de datos me motiva a seguir aprendiendo y desarrollando soluciones innovadoras.
       </p>
     </section>
   );

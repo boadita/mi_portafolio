@@ -34,7 +34,8 @@ const Skills = () => {
       { name: "SQL Server" },
       { name: "Ms Access" },
       { name: "IBM DB2" },
-      { name: "Oracle" }
+      { name: "Oracle" },
+      { name: "mongoDB" }
     ]);
     setFrameworks([
       { name: "Angular", tipo: "frontend" },
