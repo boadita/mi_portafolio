@@ -45,7 +45,8 @@ const Skills = () => {
       { name: "CodeIgniter", tipo: "backend" },
       { name: "Django", tipo: "backend" },
       { name: "Bootstrap", tipo: "CSS" },
-      { name: "Tailwind", tipo: "CSS" }
+      { name: "Tailwind", tipo: "CSS" },
+      { name: "Sass", tipo: "CSS" }
     ]);
     setRepositorios([
       { name: "Git" },
