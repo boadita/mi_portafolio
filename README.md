@@ -1,12 +1,62 @@
-# React + Vite
+# 🌐 Portafolio Profesional - Sergio Boada
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web desarrollada para presentar mis proyectos, habilidades y servicios como desarrollador web y móvil, con un enfoque en clientes freelance y soluciones reales.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Descripción
 
-## Expanding the ESLint configuration
+Este portafolio tiene como objetivo mostrar de manera clara y profesional mis capacidades como desarrollador, incluyendo proyectos destacados, tecnologías utilizadas y formas de contacto.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Está diseñado para servir como punto de entrada para clientes, reclutadores y colaboradores.
+
+---
+
+## 🛠️ Tecnologías
+
+* React
+* JavaScript
+* HTML5 / CSS3
+* Vite
+
+---
+
+## ✨ Funcionalidades
+
+* Presentación profesional del desarrollador
+* Visualización de proyectos destacados
+* Navegación fluida y responsive
+* Sección de contacto
+
+---
+
+## 📸 Capturas
+
+(Aquí puedes agregar imágenes de tu portafolio)
+
+---
+
+## 🌐 Demo en vivo
+
+👉 https://tu-portafolio.vercel.app
+
+---
+
+## ⚙️ Instalación
+
+```bash
+npm install
+npm run dev
+```
+
+---
+
+## 🎯 Objetivo
+
+Mostrar mis habilidades y proyectos para generar oportunidades laborales y freelance.
+
+---
+
+## 👨‍💻 Autor
+
+**Sergio Mario Boada Miranda**
